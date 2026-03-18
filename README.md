@@ -29,7 +29,3 @@ The through-line: systems where correctness isn't optional.
 ![Solidity](https://img.shields.io/badge/Solidity-20232a?style=flat-square&logo=solidity)
 ![C#](https://img.shields.io/badge/C%23-20232a?style=flat-square&logo=csharp)
 ![Python](https://img.shields.io/badge/Python-20232a?style=flat-square&logo=python)
-
----
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=d4d0h&show_icons=true&theme=dark&hide_border=true&hide_title=true&count_private=true)](https://github.com/d4d0h)
